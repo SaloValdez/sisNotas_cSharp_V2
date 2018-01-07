@@ -1,0 +1,16 @@
+c:\users\salonet\documents\visual studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.dll.config
+c:\users\salonet\documents\visual studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.dll
+c:\users\salonet\documents\visual studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.pdb
+c:\users\salonet\documents\visual studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.dll
+c:\users\salonet\documents\visual studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.pdb
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.csprojResolveAssemblyReference.cache
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\obj\Debug\RdlCompile.cache
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\SisMatricula_cSharp_v2\SisMatricula_cSharp_v2\obj\Debug\RdlCompile.compiled
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.dll.config
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.dll
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\bin\SisMatricula_cSharp_v2.pdb
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.csprojResolveAssemblyReference.cache
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\obj\Debug\RdlCompile.cache
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\obj\Debug\RdlCompile.compiled
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.dll
+C:\Users\SaloNet\Documents\Visual Studio 2013\Projects\sisNotas_WebcSharp_V2\SisMatricula_cSharp_v2\obj\Debug\SisMatricula_cSharp_v2.pdb
